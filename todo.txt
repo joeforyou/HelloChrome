@@ -1,0 +1,6 @@
+-Regex or other script to scrape a web page
+-finds all acronyms
+-highlights all acronyms
+-user can go through each acronym and say, "know it" and then spell it out, then save to localstorage (or chrome storage?)
+-user can say don't know it, then google/research it, then save?
+-user can view an html with all the saved acronyms
